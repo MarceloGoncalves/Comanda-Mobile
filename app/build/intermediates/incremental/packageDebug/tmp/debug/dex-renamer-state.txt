@@ -1,4 +1,4 @@
-#Fri Oct 05 00:16:56 BRT 2018
+#Fri Oct 05 00:41:26 BRT 2018
 base.0=/home/lucas/AndroidStudioProjects/Comanda-Mobile/app/build/intermediates/transforms/dexMerger/debug/16
 path.0=classes.dex
 renamed.0=classes.dex
