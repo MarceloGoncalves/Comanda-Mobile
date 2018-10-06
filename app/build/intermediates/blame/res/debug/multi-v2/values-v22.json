@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/lucas/AndroidStudioProjects/Comanda-Mobile/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v22/values-v22.xml",
+            "outputFile": "C:\\Users\\Chie\\Documents\\UFC\\Android\\Comanda-Mobile\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v22\\values-v22.xml",
             "map": [
                 {
-                    "source": "/home/lucas/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-alpha1.aar/fe44e03bbd894ef2f390990dc6aa5a4f/res/values-v22/values-v22.xml",
+                    "source": "C:\\Users\\Chie\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-alpha1.aar\\d3a192de6608cd650296532b01e6f233\\res\\values-v22\\values-v22.xml",
                     "from": {
                         "startLines": "2,3,4,9",
                         "startColumns": "4,4,4,4",

@@ -1,20 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/lucas/AndroidStudioProjects/Comanda-Mobile/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ja/values-ja.xml",
+            "outputFile": "C:\\Users\\Chie\\Documents\\UFC\\Android\\Comanda-Mobile\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ja\\values-ja.xml",
             "map": [
                 {
-                    "source": "/home/lucas/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-alpha1.aar/fe44e03bbd894ef2f390990dc6aa5a4f/res/values-ja/values-ja.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,202,295,400,482,580,688,765,841,919,1021,1120,1215,1318,1413,1509,1657,1754",
-                        "endColumns": "96,92,104,81,97,107,76,75,77,101,98,94,102,94,95,147,96,77",
-                        "endOffsets": "197,290,395,477,575,683,760,836,914,1016,1115,1210,1313,1408,1504,1652,1749,1827"
-                    }
-                },
-                {
-                    "source": "/home/lucas/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha1.aar/79bfefde5d16bc6eeb86baf14a4c7eba/res/values-ja/values-ja.xml",
+                    "source": "C:\\Users\\Chie\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\232f46765ce09456261f5b43a9353020\\res\\values-ja\\values-ja.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -28,6 +18,16 @@
                         "startOffsets": "1832",
                         "endColumns": "100",
                         "endOffsets": "1928"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Chie\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-alpha1.aar\\d3a192de6608cd650296532b01e6f233\\res\\values-ja\\values-ja.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,202,295,400,482,580,688,765,841,919,1021,1120,1215,1318,1413,1509,1657,1754",
+                        "endColumns": "96,92,104,81,97,107,76,75,77,101,98,94,102,94,95,147,96,77",
+                        "endOffsets": "197,290,395,477,575,683,760,836,914,1016,1115,1210,1313,1408,1504,1652,1749,1827"
                     }
                 }
             ]

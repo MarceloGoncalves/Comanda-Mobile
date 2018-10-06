@@ -1,10 +1,20 @@
 {
     "logs": [
         {
-            "outputFile": "/home/lucas/AndroidStudioProjects/Comanda-Mobile/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zh-rCN/values-zh-rCN.xml",
+            "outputFile": "C:\\Users\\Chie\\Documents\\UFC\\Android\\Comanda-Mobile\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-zh-rCN\\values-zh-rCN.xml",
             "map": [
                 {
-                    "source": "/home/lucas/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha1.aar/79bfefde5d16bc6eeb86baf14a4c7eba/res/values-zh-rCN/values-zh-rCN.xml",
+                    "source": "C:\\Users\\Chie\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-alpha1.aar\\d3a192de6608cd650296532b01e6f233\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,201,296,396,478,575,681,757,833,911,1007,1103,1198,1295,1390,1488,1637,1731",
+                        "endColumns": "95,94,99,81,96,105,75,75,77,95,95,94,96,94,97,148,93,77",
+                        "endOffsets": "196,291,391,473,570,676,752,828,906,1002,1098,1193,1290,1385,1483,1632,1726,1804"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Chie\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\232f46765ce09456261f5b43a9353020\\res\\values-zh-rCN\\values-zh-rCN.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -18,16 +28,6 @@
                         "startOffsets": "1809",
                         "endColumns": "100",
                         "endOffsets": "1905"
-                    }
-                },
-                {
-                    "source": "/home/lucas/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-alpha1.aar/fe44e03bbd894ef2f390990dc6aa5a4f/res/values-zh-rCN/values-zh-rCN.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,201,296,396,478,575,681,757,833,911,1007,1103,1198,1295,1390,1488,1637,1731",
-                        "endColumns": "95,94,99,81,96,105,75,75,77,95,95,94,96,94,97,148,93,77",
-                        "endOffsets": "196,291,391,473,570,676,752,828,906,1002,1098,1193,1290,1385,1483,1632,1726,1804"
                     }
                 }
             ]
