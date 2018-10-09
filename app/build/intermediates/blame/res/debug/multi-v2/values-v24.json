@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Chie\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-alpha1.aar\\d3a192de6608cd650296532b01e6f233\\res\\values-v24\\values-v24.xml",
+                    "source": "C:\\Users\\Chie\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\dc55951f08002768237c72357222168d\\res\\values-v24\\values-v24.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",
